@@ -1,2 +1,4 @@
-# Ministry-Of-Municipality-Housing-Dashboard
-The MOMAH Dashboard goes over Important metrics of topics on X and keeps track of the engagement of those topics and the latest news regarding the ministry, enabling quick insights into the public sentiments
+# Ministry of Municipality and Housing Dashboard
+The MOMAH Dashboard provides key metrics on trending topics across X, tracking engagement levels and the latest news related to the ministry — enabling fast, data-driven insights into public sentiment.
+<br><br>
+![MOMAH Dashboard](https://github.com/user-attachments/assets/45c2297b-ab2b-44d4-9457-cb367a7760cc)
